@@ -1137,6 +1137,9 @@ a"Luna! Can you hear me?"
 "Silence. I was hopelessly lost, but luckily for me..."
 a"Is that light...? Wait! It has to be!"
 "The orange tinted light was the lamp from the garden. If Luna had gone through the town hall, she must've gone through the forest."
+"The garden was empty too, in the dark, there wasn't a single hint of her even coming through here."
+"After running, I felt my chest get heavy, and a sharp pain hit me as I tried to breathe."
+
 
 
 
