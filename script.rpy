@@ -13,7 +13,7 @@
 "That was about all I could remember. Besides that, my mind was clear. I couldn't recall my age, name, or anything like that."
 "\"Where am I? What is this place?\""
 "My eyes slowly opened and greeted the bedroom I was in."
-"\"Oh, this is…\""
+"\"Oh, this is...\""
 "Not a place I was familiar with."
 "Everything there was foreign to me... but I was overcome with a strange feeling of deja vu, like I'd been there before.
 "\"Who am I? Why can't I remember a single thing? Where is this place?\""
@@ -1139,6 +1139,16 @@ a"Is that light...? Wait! It has to be!"
 "The orange tinted light was the lamp from the garden. If Luna had gone through the town hall, she must've gone through the forest."
 "The garden was empty too, in the dark, there wasn't a single hint of her even coming through here."
 "After running, I felt my chest get heavy, and a sharp pain hit me as I tried to breathe."
+a"Hah... hah..."
+"I was totally out of breath, but still, I kept moving."
+a"There's no way she went to the town, she must've gone to the beach!"
+"Like I had no time, I ran down past the garden to the beach."
+"As I ran, my footsteps left wet marks in the moonlit beach, as the high tide came in."
+"The sea breeze blew on my face, and I took a second to catch myself a breath."
+a"Luna! Where are you?"
+"Silence. Not a single answer came from the sound of the wind."
+"I then spotted a pair of small footprints on the edge of the beach., but as the tide came back in, they were washed away, and it was as if she was never there."
+"It was no use anyways, I realised. She wanted to be alone, and it wasn't in my place to keep going after her."
 
 
 
